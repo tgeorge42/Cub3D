@@ -1,0 +1,23 @@
+
+
+C 42          ,42        ,							250									
+
+
+SO							./textures/neon1.xpm
+                        WE ./textures/neon2.xpm
+EA ./textures/neon3.xpm
+F            135,						0,1         
+
+
+					NO         					 ./textures/neon4.xpm
+
+11111
+10001
+11101
+10101
+1N001
+11111
+
+
+
+
